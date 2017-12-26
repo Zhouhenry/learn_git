@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracksbad  changes of fill.
 Creating a new branch is quick.s
-Creating a new branch is quick.
+Creating a new branch is quick AND sample
