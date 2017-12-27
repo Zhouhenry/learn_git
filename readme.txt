@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git tracksbad  changes of fill.
 Creating a new branch is quick and sample.
-Git is useful.
+Git is useful.by dev
